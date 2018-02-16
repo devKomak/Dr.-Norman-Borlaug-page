@@ -1,0 +1,20 @@
+h1 {
+  font-size: 50px;
+}
+#main-para {
+  font-size: 23px;
+}
+img {
+  border: 5px solid white;
+}
+#photo-para {
+  background-color: white;
+  margin: 0px 6px;
+  padding: 2px 0px 10px 0px;
+}
+#quotation {
+  color: grey;
+}
+#footer{
+  border-top: 1px solid silver;
+}
